@@ -1,0 +1,5 @@
+mouse:touchpad
+board:keyboard
+processor:CPU
+screen:monitor
+os:operatingsystem

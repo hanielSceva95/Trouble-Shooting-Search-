@@ -1,0 +1,4 @@
+monitor not getting connected
+problem in rebooting
+OS is working fine
+problem with processors
